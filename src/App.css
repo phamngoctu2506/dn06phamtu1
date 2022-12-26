@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  border: none;
+}
+.col-4{
+  max-width: 100%;
+}
+
+.card i {
+  font-size: 50px;
+  color: #007bff;
+}
